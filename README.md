@@ -8,6 +8,5 @@
 
 ## For retraining with a new model
 
-Replace label.txt and graph.lite with newly trained data
-more .. 
+Replace label.txt and graph.lite with newly trained data. For more information .. 
 view blog https://medium.com/@sliit.sk95/training-your-own-model-using-tensorflow-for-poets-824175851702
